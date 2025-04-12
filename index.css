@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    background-color: pink;
+    justify-content: space-between;
+}
+.list-items {
+    display: flex;
+    list-style: none;
+}
+
+.home-page {
+    min-width: 100%;
+    min-height: 60vh;
+}
